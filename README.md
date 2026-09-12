@@ -160,6 +160,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Frontend Masters](https://frontendmasters.com/) – Advanced courses taught by industry experts.
 - [The Odin Project](https://www.theodinproject.com/) – Open-source web development curriculum.
 - [Egghead.io](https://egghead.io/) – Short, focused video lessons for modern frameworks.
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) – Free and open-source TypeScript book covering fundamentals through advanced concepts.
 
 ### Courses
 - *The Complete Web Developer Bootcamp* – Bestseller covering HTML, CSS, JS, Node, and databases.
