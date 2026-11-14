@@ -65,6 +65,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Day.js](https://day.js.org/) – Lightweight alternative to Moment.js for date/time manipulation.
 - [Axios](https://axios-http.com/) – Promise-based HTTP client for browsers and Node.js.
 - [D3.js](https://d3js.org/) – Data-driven visualization library for interactive charts and graphics.
+- [NextJSON](https://nextjson.com/) – Free online nested JSON parser and formatter that decodes escaped JSON strings.
 
 ## Static Site Generators
 
